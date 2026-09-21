@@ -8,6 +8,9 @@ The insights generated from the programmatic pipeline are fully integrated into 
 This strategic view tracks the health of both sides of the marketplace over time, balancing geographic user penetration with partner merchant performance metrics.
 
 <!-- PowerBI Screenshot Injection -->
+![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/268303a75f7228182adf85e409647b71c98a92f6/PowerBI/Product%20Performance%20%26%20Customer%20Sentinment%20Analysis.png)
+
+![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/268303a75f7228182adf85e409647b71c98a92f6/PowerBI/Product%20Performance%20%26%20Customer%20Sentinment%20Analysis.png)
 
 ![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/8eba5989621e8c1bb8fd03057ec9d5ed5ae99e63/PowerBI/Customer%20Loyalty%20%26%20Seller%20Ecosystem.png)
 
