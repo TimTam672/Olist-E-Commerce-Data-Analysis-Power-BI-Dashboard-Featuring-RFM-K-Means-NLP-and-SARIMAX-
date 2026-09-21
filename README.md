@@ -16,6 +16,7 @@ A rigorous diagnostic audit of the Olist e-commerce database revealed several cr
 Aggregate business revenues follow a distinct category structural distribution, led by home goods and trailing into media supplies:
 $$\text{Home \& Living} > \text{Lifestyle} > \text{Tech \& Gadgets} > \text{Media \& Essentials}$$
 
+
 ### 🗺️ Geographic Retention & Supply Dynamics
 * **The Retention Divide**: **Coastal regions exhibit noticeably lower customer retention rates** compared to interior markets. Spatial analysis indicates this churn is primarily driven by intense localized market competition.
 * **Growth Engine Imbalance**: The platform currently faces an over-reliance on **continuous new customer acquisition** to sustain transaction volumes, rather than relying on robust organic user retention.
