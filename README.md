@@ -14,8 +14,7 @@ A rigorous diagnostic audit of the Olist e-commerce database revealed several cr
 
 ### 📦 Category Revenue Hierarchy
 Aggregate business revenues follow a distinct category structural distribution, led by home goods and trailing into media supplies:
-$$\text{Home \& Living} > \text{Lifestyle} > \text{Tech \& Gadgets} > \text{Media \& Essentials}$$
-
+`Home & Living` > `Lifestyle` > `Tech & Gadgets` > `Media & Essentials`
 
 ### 🗺️ Geographic Retention & Supply Dynamics
 * **The Retention Divide**: **Coastal regions exhibit noticeably lower customer retention rates** compared to interior markets. Spatial analysis indicates this churn is primarily driven by intense localized market competition.
