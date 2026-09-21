@@ -8,7 +8,7 @@ The insights generated from the programmatic pipeline are fully integrated into 
 This strategic view tracks the health of both sides of the marketplace over time, balancing geographic user penetration with partner merchant performance metrics.
 
 <!-- PowerBI Screenshot Injection -->
-![Customer Loyalty and Seller Ecosystem Dynamics](https://githubusercontent.com)
+[![Customer Loyalty and Seller Ecosystem Dynamics](https://githubusercontent.com)](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-
 
 #### 🔑 Key Metrics & Strategic Frameworks Monitored:
 * **Geographic Customer Density & Loyalty**: A regional choropleth mapping layer visualizing localized user footprints paired with relative **Retention (%)** tiers (High $>3\%$, Mid $2.5\%-3\%$, Low $<2.5\%$).
