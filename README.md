@@ -14,9 +14,9 @@ Olist-E-Commerce-Data-Analysis/
 ```
 
 #### 📁 Repository Component Breakdown
-* **` NLP Topic Model/`** – Contains Jupyter Notebook scripts, source customer review datasets, and output natural language visualization charts/tables.
-* **` RFM K-means/`** – Contains Jupyter Notebook feature engineering scripts, customer demographic data splits, and automated cluster segmentation profiles.
-* **` SARIMAX/`** – Contains Jupyter Notebook time-series modeling code, transactional chronological data, and forward-looking forecast trends.
+* **` NLP Topic Model/`** – Contains Jupyter Notebook scripts, datasets, and output charts/tables.
+* **` RFM K-means/`** – Contains Jupyter Notebook scripts, datasets, and output charts/tables.
+* **` SARIMAX/`** – Contains Jupyter Notebook scripts, datasets, and output charts/tables.
 * **` Diagnostic & Predictive Analysis PowerPoint.pptx`** – Comprehensive slide deck summarizing key project findings and executive presentation deliverables.
 * **` PowerBI/`** – Houses compiled interactive dashboard application files (`.pbix`) alongside high-resolution interface screenshots.
 * **` Project_Outline.pdf`** – Comprehensive project blueprint documenting precise data cleaning pipelines and the baseline Entity-Relationship Diagram (ERD).
@@ -28,7 +28,6 @@ Logistics, Product Performance, and Customer Loyalty across a 15.49M BRL revenue
 ecosystem (100k+ records).
 
 ## 🔍 Key Business Insights & Analytical Findings (PowerBI-based)
-
 A rigorous diagnostic audit of the Olist e-commerce database revealed several critical operational trends and strategic growth challenges across consumer segments, merchant behaviors, and category lifecycles:
 
 ### 💳 Consumer Purchasing Behaviors & Experience
@@ -47,11 +46,22 @@ Aggregate business revenues follow a distinct category structural distribution, 
 * **Mature Seller Expansion**: The volume of **stable, long-tenure merchant accounts ($3+$ months)** operating on the Olist marketplace is steadily expanding, establishing a reliable ecosystem backbone.
 * **The Scale vs. Quality Dilemma**: A strong inverse relationship exists between transaction volumes and service metrics. Merchants managing **high sales volumes face severe structural difficulties in maintaining peak service quality and high ratings**, pointing to a need for better seller logistics infrastructure.
 
-<!-- PowerBI Screenshot Injection -->
+<!-- PowerBI Dashboard -->
 ![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/8dd34751100f766e6f00c5f98d4859001575e2b5/PowerBI/Sales%20%26%20Logistics.png)
 
 ![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/268303a75f7228182adf85e409647b71c98a92f6/PowerBI/Product%20Performance%20%26%20Customer%20Sentinment%20Analysis.png)
 
 ![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/8eba5989621e8c1bb8fd03057ec9d5ed5ae99e63/PowerBI/Customer%20Loyalty%20%26%20Seller%20Ecosystem.png)
 
+<!-- Diagnostic & Predictive Data Analytics -->
+![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/RFM%20K-means/Elbow.png)
 
+![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/RFM%20K-means/Olist_KMeans_Diagnostic_Table_Final.png)
+
+![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/NLP%20Topic%20Model/WordCloud.png)
+
+![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/NLP%20Topic%20Model/Customer%20Pain%20Point%20Diagnosis%20Matrix.png)
+
+![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_SARIMAX_Forecast_Charts.png)
+
+![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_Strategic_Analysis_Table.png)
