@@ -2,8 +2,27 @@
 
 ## 📊 Interactive PowerBI Dashboards
 
-The insights generated from the programmatic pipeline are fully integrated into interactive **PowerBI** operational dashboards. These dashboards translate complex customer segments and forecasting models into actionable, executive-level business intelligence.
+Here is a PowerBI Dashboard Covered Sales, LOgistics, Product Performance, Customer Sentinment Analysis, Customer Loyalty, Seller Performance 
 
+## 🔍 Key Business Insights & Analytical Findings
+
+A rigorous diagnostic audit of the Olist e-commerce database revealed several critical operational trends and strategic growth challenges across consumer segments, merchant behaviors, and category lifecycles:
+
+### 💳 Consumer Purchasing Behaviors & Experience
+* **Payment & Timing Preferences**: Transaction data indicates that customers heavily prefer shopping on **weekdays** and overwhelmingly complete purchases utilizing **credit cards** as their primary payment mechanism.
+* **The High-Value Experience Friction**: A critical paradox was identified where **high-spending customer cohorts report significantly lower satisfaction scores (worse user experiences)** compared to baseline spenders. This highlights a pressing need to optimize the premium delivery and customer service funnel.
+
+### 📦 Category Revenue Hierarchy
+Aggregate business revenues follow a distinct category structural distribution, led by home goods and trailing into media supplies:
+$$\text{Home \& Living} > \text{Lifestyle} > \text{Tech \& Gadgets} > \text{Media \& Essentials}$$
+
+### 🗺️ Geographic Retention & Supply Dynamics
+* **The Retention Divide**: **Coastal regions exhibit noticeably lower customer retention rates** compared to interior markets. Spatial analysis indicates this churn is primarily driven by intense localized market competition.
+* **Growth Engine Imbalance**: The platform currently faces an over-reliance on **continuous new customer acquisition** to sustain transaction volumes, rather than relying on robust organic user retention.
+
+### 🏪 Merchant Performance & Scaling Friction
+* **Mature Seller Expansion**: The volume of **stable, long-tenure merchant accounts ($3+$ months)** operating on the Olist marketplace is steadily expanding, establishing a reliable ecosystem backbone.
+* **The Scale vs. Quality Dilemma**: A strong inverse relationship exists between transaction volumes and service metrics. Merchants managing **high sales volumes face severe structural difficulties in maintaining peak service quality and high ratings**, pointing to a need for better seller logistics infrastructure.
 
 <!-- PowerBI Screenshot Injection -->
 ![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/8dd34751100f766e6f00c5f98d4859001575e2b5/PowerBI/Sales%20%26%20Logistics.png)
