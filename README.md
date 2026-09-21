@@ -1,6 +1,28 @@
----
+### 📂 Project Directory Structure
 
-## 📊 Interactive PowerBI Dashboards
+```text
+Olist-E-Commerce-Data-Analysis/
+├── Diagnostic & Predictive Analysis (RFM K-means + NLP Topic Model + SARIMAX)/
+│   ├── NLP Topic Model/
+│   ├── RFM K-means/
+│   ├── SARIMAX/
+│   └── Diagnostic & Predictive Analysis PowerPoint.pptx
+├── PowerBI/
+├── Data Collection Methodology.pdf
+├── Project_Outline.pdf
+└── README.md
+```
+
+#### 📁 Repository Component Breakdown
+* **` NLP Topic Model/`** – Contains Jupyter Notebook scripts, source customer review datasets, and output natural language visualization charts/tables.
+* **` RFM K-means/`** – Contains Jupyter Notebook feature engineering scripts, customer demographic data splits, and automated cluster segmentation profiles.
+* **` SARIMAX/`** – Contains Jupyter Notebook time-series modeling code, transactional chronological data, and forward-looking forecast trends.
+* **` Diagnostic & Predictive Analysis PowerPoint.pptx`** – Comprehensive slide deck summarizing key project findings and executive presentation deliverables.
+* **` PowerBI/`** – Houses compiled interactive dashboard application files (`.pbix`) alongside high-resolution interface screenshots.
+* **` Project_Outline.pdf`** – Comprehensive project blueprint documenting precise data cleaning pipelines and the baseline Entity-Relationship Diagram (ERD).
+* **` Data Collection Methodology.pdf`** – Comprehensive documentation outlining the data collection methodology, ethical considerations, and core limitations of the dataset.
+
+## 📊 Interactive Power BI Dashboards
 A 3-page interactive Power BI Dashboard to evaluate Sales,
 Logistics, Product Performance, and Customer Loyalty across a 15.49M BRL revenue
 ecosystem (100k+ records).
