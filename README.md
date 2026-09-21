@@ -4,11 +4,9 @@
 
 The insights generated from the programmatic pipeline are fully integrated into interactive **PowerBI** operational dashboards. These dashboards translate complex customer segments and forecasting models into actionable, executive-level business intelligence.
 
-### Module 1: Customer Loyalty & Seller Ecosystem Dynamics
-This strategic view tracks the health of both sides of the marketplace over time, balancing geographic user penetration with partner merchant performance metrics.
 
 <!-- PowerBI Screenshot Injection -->
-![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/268303a75f7228182adf85e409647b71c98a92f6/PowerBI/Product%20Performance%20%26%20Customer%20Sentinment%20Analysis.png)
+![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/8dd34751100f766e6f00c5f98d4859001575e2b5/PowerBI/Sales%20%26%20Logistics.png)
 
 ![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/268303a75f7228182adf85e409647b71c98a92f6/PowerBI/Product%20Performance%20%26%20Customer%20Sentinment%20Analysis.png)
 
