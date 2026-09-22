@@ -146,15 +146,15 @@ We applied advanced NLP sentiment analysis on **9,869 1-star reviews** to extrac
 
 ## 📈 Track 3: Predictive Time-Series Forecasting (SARIMAX Model)
 
-To proactively navigate future shifts across macro product categories, we implemented a **SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous Regressors)** model, turning operational friction points into model parameters.
+To proactively navigate future shifts across macro product categories, I implemented a **SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous Regressors)** model, turning operational friction points into model parameters.
 
 ### 🛠️ Model Specification & Feature Engineering
-* **Exogenous Variables (External Drivers)**: Integrated **Weekend Ratio** and **Delivery Days** directly into the model to isolate how consumer purchasing patterns and courier lag affect transactional frequency.
-* **Model Selection**: The **Media & Essentials** category achieved the **lowest AIC (Akaike Information Criterion)** score, rendering its sales predictions the most stable, reliable, and mathematically sound across the portfolio.
-* **Growth Vector**: Time-series projections identify **Media & Essentials** as possessing the most dominant long-term growth trend compared to all other segments.
+* **Exogenous Variables (External Drivers)**: Integrated **Weekend Ratio** and **Delivery Days** directly into the model to isolate how consumer purchasing patterns and courier lag affect revenue.
+* **Model Selection**: The **Media & Essentials** category achieved the **lowest AIC (Akaike Information Criterion)** score, rendering its revenue predictions the most stable, reliable, and mathematically sound across the portfolio.
+* **Growth Vector**: Time-series projections identify **Media & Essentials** as possessing the most dominant long-term growth trend compared to all other product categories.
 
 ### 📊 Strategic Forecasting & Trend Insights
-* **🚀 Standout Performer (Media & Essentials)**: Projected to achieve a dominant **9.7% increase** in sales volume. Transaction velocity in this category is heavily influenced by **delivery speed**.
+* **🚀 Standout Performer (Media & Essentials)**: Projected to achieve a dominant **9.7% increase** in revenue. Revenue in this category is heavily influenced by **delivery speed**.
 * **🛡️ Resilient Core (Lifestyle)**: Demonstrates stable structural health, maintaining a steady and predictable momentum with a projected **1.3% growth**.
 * **⚠️ Declining Categories (Tech & Home)**: 
   * **Tech & Gadgets**: Anticipated to experience the most significant contraction, dropping by **3.7%**.
@@ -163,11 +163,10 @@ To proactively navigate future shifts across macro product categories, we implem
 ### 🎯 Predictive Solutions & Growth Strategy
 * **💰 1. Strategic Resource Reallocation**
   * *Interventions*: Reallocate paid performance marketing budgets away from contracting segments (**Tech & Gadgets**) and heavily toward the **Media & Essentials** category to lock in predictable, high-margin transaction flows.
-  * *Expected Result*: Maximized platform Return on Ad Spend (ROAS) and optimized GMV stabilization.
-* **🚚 2. Logistics Stress Testing for Media & Essentials**
-  * *Interventions*: Conduct aggressive logistical stress testing specifically tailored to the Media & Essentials merchant network. Impose strict fulfillment SLAs to compress average delivery days, keeping velocity high.
-  * *Expected Result*: Insulation of the platform's primary growth driver from supply chain volatility, preserving customer satisfaction where it yields the highest financial return.
 
+* **🚚 2. Logistics Stress Testing for Media & Essentials**
+  * *Interventions*: Conduct aggressive logistical stress testing specifically tailored to the Media & Essentials merchant network. Compress average delivery days, keeping velocity high.
+  * 
 ![Olist SARIMAX Forecast Charts](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_SARIMAX_Forecast_Charts.png) 
 
 ![Olist Strategic Analysis Table](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_Strategic_Analysis_Table.png)
