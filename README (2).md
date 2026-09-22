@@ -40,7 +40,7 @@ To provide a complete breakdown of this project's architecture, the analytical w
 
 | 📊 Power BI Dashboard Analytics | 🧠 Diagnostic & Predictive AI Pipeline |
 | :--- | :--- |
-| **Focus:** Sales, Logistics, and Merchant Ecosystem KPIs.<br><br>🎥 **[Watch the Power BI Walkthrough]([https://youtube.com](https://www.youtube.com/watch?v=xFCZaVdFS-o))** | **Focus:** Algorithmic execution across RFM K-Means, BERTopic, and SARIMAX.<br><br>🎥 **[Watch the Advanced ML/NLP Analysis](https://www.youtube.com/watch?v=VGxmjx2cL8I&t=129s)** |
+| **Focus:** Consumer Purchasing Behaviors & Experience, Geographic Retention &Merchant Performance.<br><br>🎥 **[Watch the Power BI Walkthrough]([https://youtube.com](https://www.youtube.com/watch?v=xFCZaVdFS-o)** | **Focus:** Algorithmic execution across RFM K-Means, BERTopic, and SARIMAX.<br><br>🎥 **[Watch the Advanced ML/NLP Analysis](https://www.youtube.com/watch?v=VGxmjx2cL8I&t=129s)** |
 
 ## 📊 Interactive Power BI Dashboards
 
