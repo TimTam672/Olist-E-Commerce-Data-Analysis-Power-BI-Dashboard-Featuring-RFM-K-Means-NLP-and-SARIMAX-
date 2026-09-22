@@ -152,6 +152,5 @@ To proactively navigate future shifts across macro product categories, we implem
   * *Interventions*: Conduct aggressive logistical stress testing specifically tailored to the Media & Essentials merchant network. Impose strict fulfillment SLAs to compress average delivery days, keeping velocity high.
   * *Expected Result*: Insulation of the platform's primary growth driver from supply chain volatility, preserving customer satisfaction where it yields the highest financial return.
 
-| Category Structural Sales Volume Forecasts | Multi-Category Strategic Analysis Horizon |
 | :---: | :---: |
 | ![Olist SARIMAX Forecast Charts](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_SARIMAX_Forecast_Charts.png) | ![Olist Strategic Analysis Table](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_Strategic_Analysis_Table.png) |
