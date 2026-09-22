@@ -34,6 +34,14 @@ Olist-E-Commerce-Data-Analysis/
 * **`Data Collection Methodology.pdf`** – Comprehensive documentation outlining data collection methodologies, ethical considerations, and core limitations.
 
 ---
+### 📺 Executive Video Presentations & Walkthroughs
+
+To provide a complete breakdown of this project's architecture, the analytical workflow is split into two specialized video walkthroughs covering both data visualization and advanced intelligence tracks:
+
+| 📊 Power BI Dashboard Analytics | 🧠 Diagnostic & Predictive AI Pipeline |
+| :--- | :--- |
+| **Focus:** Sales, Logistics, and Merchant Ecosystem KPIs.<br><br>🎥 **[Watch the Power BI Walkthrough]([https://youtube.com](https://www.youtube.com/watch?v=xFCZaVdFS-o))** | **Focus:** Algorithmic execution across RFM K-Means, BERTopic, and SARIMAX.<br><br>🎥 **[Watch the Advanced ML/NLP Analysis](https://www.youtube.com/watch?v=VGxmjx2cL8I&t=129s)** |
+
 ## 📊 Interactive Power BI Dashboards
 
 Our 3-page interactive Power BI Dashboard provides strategic overviews of Sales, Logistics, Product Performance, and Customer Loyalty.
@@ -42,9 +50,6 @@ Our 3-page interactive Power BI Dashboard provides strategic overviews of Sales,
 The underlying analytical schema utilizes an optimized star-schema layout to connect customer, seller, order, and product attributes seamlessly.
 
 ![ERD](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/0a015c21da8580df2e7d8d4d44b83380f11986a9/PowerBI/Finalized%20ERD.png)
-
-### 📺 Interactive Dashboard Video Walkthrough
-🎥 **[Watch the full Power BI presentation on YouTube](https://www.youtube.com/watch?v=xFCZaVdFS-o)** for a detailed walkthrough of the dynamic filtering capabilities, page navigation, and metrics layout.
 
 ### 🎨 Dashboard Interfaces
 
