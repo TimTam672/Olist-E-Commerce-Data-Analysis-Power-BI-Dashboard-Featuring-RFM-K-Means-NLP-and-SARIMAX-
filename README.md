@@ -148,8 +148,38 @@ Applied NLP sentiment analysis on 1-star reviews to distill 4 operational risk t
 
 ![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/NLP%20Topic%20Model/Customer%20Pain%20Point%20Diagnosis%20Matrix.png)
 
+## 📈 Predictive Time-Series Forecasting (SARIMAX Model)
 
+We implemented a **SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous Regressors)** model to forecast future sales across product categories, leveraging critical operational bottlenecks as external drivers.
 
+### 🛠️ Model Specification & Feature Engineering
+* **Exogenous Variables (External Drivers)**: Integrated **Weekend Ratio** and **Delivery Days** to capture consumer purchasing cycles and logistics performance impact.
+* **Model Selection**: The **Media & Essentials** category achieved the **lowest AIC (Akaike Information Criterion)** score, rendering its sales predictions the most stable and reliable across the entire portfolio.
+* **Growth Vector**: Time-series projections identify **Media & Essentials** as the segment with the most dominant and robust long-term growth trend compared to the other three categories.
+
+---
+
+### 📊 Strategic Forecasting & Trend Insights
+
+* **🚀 Standout Performer (Media & Essentials)**: Projected to achieve a **9.7% increase** in sales volume. Transaction velocity in this category is heavily dependent on and influenced by **delivery speed**.
+* **🛡️ Resilient Core (Lifestyle)**: Demonstrates stable structural health, maintaining a steady and predictable momentum with a projected **1.3% growth**.
+* **⚠️ Declining Categories (Tech & Home)**: 
+  * **Tech & Gadgets**: Anticipated to experience the most significant contraction, dropping by **3.7%**.
+  * **Home & Living**: Expected to experience a moderate structural decline of **1.8%**.
+
+---
+
+### 🎯 Predictive Solutions & Growth Strategy
+
+#### 💰 1. Strategic Resource Reallocation
+* **Target Objective**: Capitalize on predictable revenue pipelines and optimize marketing efficiency.
+* **Interventions**: Shift paid acquisition and marketing budgets away from declining segments and heavily toward the **Media & Essentials** category to lock in stable, high-margin growth.
+* **Expected Result**: Maximized Return on Ad Spend (ROAS) and stabilized platform transaction volumes.
+
+#### 🚚 2. Logistics Stress Testing for Media & Essentials
+* **Target Objective**: Insulate the platform's fastest-growing revenue engine from operational delivery bottlenecks.
+* **Interventions**: Establish proactive **logistics stress tests** specifically tailored for the Media & Essentials fulfillment network. Optimize seller-to-courier handoffs to minimize delivery days.
+* **Expected Result**: Protection of the primary growth driver from supply chain volatility and poor customer reviews.
 
 ![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_SARIMAX_Forecast_Charts.png)
 
