@@ -59,8 +59,6 @@ Aggregate business revenues follow a distinct category structural distribution, 
 
 This repository contains the data preprocessing, model selection, and strategic growth framework for our customer segmentation engine, utilizing an **RFM (Recency, Frequency, Monetary) model** combined with **K-Means Clustering**.
 
----
-
 ### 🛠️ Data Preprocessing & Methodology
 
 1. **RFM Transformation**: Raw transaction data was tidied into Recency, Frequency, and Monetary metrics and standardized into a **1–4 scale** using statistical quartiles.
@@ -98,28 +96,30 @@ This repository contains the data preprocessing, model selection, and strategic 
 
 ![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/RFM%20K-means/Olist_KMeans_Diagnostic_Table_Final.png)
 
-## 🛠️ Pipeline Methodology & Technical Stack
+## NLP Topic Modelling
 
-### 1. Neural Translation
+Applied NLP sentiment analysis on 1-star reviews to distill 4 operational risk themes.
+
+### 🛠️ Pipeline Methodology & Technical Stack
+
+#### 1. Neural Translation
 * **Model**: Facebook's **NLLB-200**
 * **Application**: Normalized international customer feedback by converting non-English text (e.g., Portuguese) to English while preserving semantic nuances.
 
-### 2. Rigorous Text Preprocessing
+#### 2. Rigorous Text Preprocessing
 * **Noise Reductions**: Stripped URLs, punctuation, digits, and nonsensical strings.
 * **Feature Pruning**: Eliminated standard stop words, high-frequency baseline terms, and ultra-rare outliers.
 * **Normalization**: Handled emoticon-to-text conversion followed by strict stemming and lemmatization.
 
-### 3. Quality Audit & Validation
+#### 3. Quality Audit & Validation
 * **Semantic Evaluation**: Utilized **LaBSE (Language-Agnostic BERT Sentence Embedding)**.
 * **Benchmark**: Achieved a semantic similarity score of **0.657**, validating that core contextual meaning remained intact post-translation and preprocessing.
 
-### 4. Advanced Refinement & Topic Discovery
+#### 4. Advanced Refinement & Topic Discovery
 * **Vectorization**: Integrated `CountVectorizer` to capture critical multi-word phrases and n-grams.
 * **Topic Modeling**: Executed a **BERTopic** pipeline optimized with `KeyBERTInspired` embeddings to distill **9,869 raw reviews** down to **4 Critical Themes** (accounting for 5,619 high-impact reviews).
 
----
-
-## 📊 Structural Matrix: Themes by Category
+### 📊 Structural Matrix: Themes by Category
 
 | Core Theme | Home & Living | Tech & Gadgets | Media & Essentials | Lifestyle |
 | :--- | :---: | :---: | :---: | :---: |
@@ -128,25 +128,21 @@ This repository contains the data preprocessing, model selection, and strategic 
 | **Customer Anxiety** | | | 🔴 Poor Tracking | 🔴 Poor Tracking |
 | **Fulfillment & Returns** | ⚠️ High Impact | ⚠️ High Impact | ⚠️ High Impact | ⚠️ High Impact |
 
----
+### 🎯 NLP Solutions & Operational Interventions
 
-## 🎯 NLP Solutions & Operational Interventions
-
-### 📋 1. Proactive Logistics & Dispute Management
+#### 📋 1. Proactive Logistics & Dispute Management
 * **Target Objective**: Eliminate systemic **Customer Anxiety** by addressing both tactical ("Action") and emotional ("Psychological") bottlenecks.
 * **Interventions**:
   * Deploy **Live Customer Service** frameworks to mediate and de-escalate transaction disputes in real-time.
   * Construct automated monitoring triggers for orders with extreme lead times, backed by **strict penalties** for underperforming third-party sellers.
 * **Expected Result**: Minimal operational friction and a measurable drop in anxiety-driven customer support tickets.
 
-### 🛡️ 2. Product Integrity & Information Standards
+#### 🛡️ 2. Product Integrity & Information Standards
 * **Target Objective**: Systematically eliminate **Specification Discrepancies** and **Installation Failures**.
 * **Interventions**:
   * Execute a platform-wide **specification audit** to purge fraudulent or inaccurate product sheets.
   * Enforce a **Mandatory Digital Documentation** standard, requiring merchants to supply localized video tutorials or interactive, enhanced digital manuals.
 * **Expected Result**: Drastic reduction in avoidable post-purchase returns and an elevated initial unboxing experience.
-
-
 
 ![image alt](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/NLP%20Topic%20Model/WordCloud.png)
 
