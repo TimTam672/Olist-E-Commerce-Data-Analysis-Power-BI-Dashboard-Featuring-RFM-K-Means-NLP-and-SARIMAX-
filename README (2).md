@@ -53,8 +53,6 @@ The underlying analytical schema utilizes an optimized star-schema layout to con
   <img src="https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/0a015c21da8580df2e7d8d4d44b83380f11986a9/PowerBI/Finalized%20ERD.png" width="100%" alt="Finalized ERD Schema">
 </p>
 
-![ERD](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/0a015c21da8580df2e7d8d4d44b83380f11986a9/PowerBI/Finalized%20ERD.png)
-
 ### 🎨 Dashboard Interfaces
 
 ![Sales & Logistics](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/8dd34751100f766e6f00c5f98d4859001575e2b5/PowerBI/Sales%20%26%20Logistics.png)
