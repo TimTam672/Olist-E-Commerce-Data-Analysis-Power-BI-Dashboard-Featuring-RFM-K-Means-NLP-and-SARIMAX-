@@ -105,7 +105,9 @@ This module builds a robust customer segmentation engine designed to transition 
   * *Tactics*: Premium benefits including free shipping and priority customer support.
   * *Goal*: Stabilize our most profitable segment and maximize Customer Lifetime Value (CLV).
 
-![Elbow](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/RFM%20K-means/Elbow.png) | ![Olist KMeans Table](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/RFM%20K-means/Olist_KMeans_Diagnostic_Table_Final.png) |
+![Elbow](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/RFM%20K-means/Elbow.png) 
+
+![Olist KMeans Table](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/RFM%20K-means/Olist_KMeans_Diagnostic_Table_Final.png) |
 
 ---
 
@@ -136,7 +138,9 @@ We applied advanced NLP sentiment analysis on **9,869 1-star reviews** to extrac
   * *Interventions*: Execute a platform-wide **specification audit** to purge inaccurate product sheets. Enforce a **Mandatory Digital Documentation** standard, requiring merchants to supply localized video tutorials or enhanced digital manuals.
   * *Expected Result*: Systematically eliminate **Specification Discrepancies** and **Installation Failures**, reducing avoidable post-purchase returns.
 
-| ![WordCloud](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/NLP%20Topic%20Model/WordCloud.png) | ![Customer Pain Point Diagnosis Matrix](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/NLP%20Topic%20Model/Customer%20Pain%20Point%20Diagnosis%20Matrix.png) |
+![WordCloud](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/NLP%20Topic%20Model/WordCloud.png) 
+
+![Customer Pain Point Diagnosis Matrix](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/NLP%20Topic%20Model/Customer%20Pain%20Point%20Diagnosis%20Matrix.png) 
 
 ---
 
@@ -164,4 +168,6 @@ To proactively navigate future shifts across macro product categories, we implem
   * *Interventions*: Conduct aggressive logistical stress testing specifically tailored to the Media & Essentials merchant network. Impose strict fulfillment SLAs to compress average delivery days, keeping velocity high.
   * *Expected Result*: Insulation of the platform's primary growth driver from supply chain volatility, preserving customer satisfaction where it yields the highest financial return.
 
-| ![Olist SARIMAX Forecast Charts](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_SARIMAX_Forecast_Charts.png) | ![Olist Strategic Analysis Table](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_Strategic_Analysis_Table.png) |
+![Olist SARIMAX Forecast Charts](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_SARIMAX_Forecast_Charts.png) 
+
+![Olist Strategic Analysis Table](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/3540e95101ae8eb3fb4d74e0a722d65d6970aff3/Diagnostic%20%26%20Predictive%20Analysis%20(RFM%20K-means%20%2B%20NLP%20Topic%20Model%20%2B%20SARIMAX)/SARIMAX/Olist_Strategic_Analysis_Table.png)
