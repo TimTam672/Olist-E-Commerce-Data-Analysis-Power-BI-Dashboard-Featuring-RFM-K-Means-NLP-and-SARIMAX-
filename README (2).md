@@ -40,6 +40,7 @@ Our 3-page interactive Power BI Dashboard provides strategic overviews of Sales,
 
 ### 🔌 Entity-Relationship Diagram (ERD)
 The underlying analytical schema utilizes an optimized star-schema layout to connect customer, seller, order, and product attributes seamlessly.
+
 ![ERD](https://github.com/TimTam672/Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard-Featuring-RFM-K-Means-NLP-and-SARIMAX-/blob/0a015c21da8580df2e7d8d4d44b83380f11986a9/PowerBI/Finalized%20ERD.png)
 
 ### 📺 Interactive Dashboard Video Walkthrough
